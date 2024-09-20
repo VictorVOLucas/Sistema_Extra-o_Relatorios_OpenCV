@@ -4,6 +4,7 @@
 <summary>ENGLISH VERSION</summary>
 
   - [English Version](#ENGLISH-VERSION)
+  - 
   - [Description](#description)
 
   - [Additional Features](#additional-features)
@@ -30,6 +31,8 @@
 <details>
 <summary>PORTUGESE VERSION</summary>
 
+  - [PORTUGUESE VERSION](#PORTUGUESE-VERSION)
+    
   - [Descrição](#descrição)
 
   - [Funcionalidades Adicionais](#funcionalidades-adicionais)

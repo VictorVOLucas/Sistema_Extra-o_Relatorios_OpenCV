@@ -1,11 +1,11 @@
 {
-    "software_path": "C:\\Program Files (x86)\\GraphOn\\GO-Global\\Client\\gg-client.exe",
-    "arguments": "-c -h erpcloud.korp.com.br -mm 1 -u SUPPER_75 -p p#&jHPF8yvJ -a SUPPER -ac all",
-    "name_sheets": "CRM",
-    "caminho_mrp_desktop": "Z:\\GESTAO_DE_DEMANDA\\TESTE\\MRP",
-    "caminho": "Z:\\GESTAO_DE_DEMANDA\\TESTE\\Relatorios",
-    "caminho_parametros": "TESTE",
-    "caminho_mov_odf": "Z:\\GESTAO_DE_DEMANDA\\TESTE\\RelatorioMovSaida",
-    "caminho_faturamento_peso": "Z:\\GESTAO_DE_DEMANDA\\TESTE\\FaturamentoPeso",
-    "caminho_mrp": "Z:\\GESTAO_DE_DEMANDA\\TESTE\\MRP"
+    "software_path": "",
+    "arguments": "",
+    "name_sheets": "",
+    "caminho_mrp_desktop": "",
+    "caminho": "",
+    "caminho_parametros": "",
+    "caminho_mov_odf": "",
+    "caminho_faturamento_peso": "",
+    "caminho_mrp": ""
 }

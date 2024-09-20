@@ -3,6 +3,7 @@
 <details>
 <summary>ENGLISH VERSION</summary>
 
+  - [English Version](#ENGLISH-VERSION)
   - [Description](#description)
 
   - [Additional Features](#additional-features)

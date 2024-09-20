@@ -1,0 +1,11 @@
+{
+    "estoque_supper": "EstoqueSupper",
+    "faturamento_peso": "FaturamentoPeso",
+    "pedido_compra": "PedidoCompra",
+    "req_almoxarifado": "ReqAlmoxarifado",
+    "mov_saida_odf": "Mov_Saida_ODF",
+    "mrp_filial_dois": "CarteiraProducao_Filial_2",
+    "mrp_jms": "CarteiraProducao_JMS_1",
+    "mrp_jm": "CarteiraProducao_JM_3",
+    "parametros": "Parametros"
+}
